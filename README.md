@@ -22,7 +22,7 @@ python3 dataClean.py
 
 Here I am using the nltk package to do the sentiment analysis
 
-![screenshot1](assets/screenshot1.png)
+![screenshot1](asset/screenshot1.png)
 
 ### LDA Topic Modelling
 
@@ -61,6 +61,6 @@ I am clustering the word into 27 topics. Topics are shown below:
 
 Combine the topics and sentiment results. 
 
-![screenshot1](assets/screenshot2.png)
+![screenshot1](asset/screenshot2.png)
 
 The hot topics in tweet are topics 2, 3, 5, 6,14, 20.
