@@ -17,6 +17,9 @@ python3 dataClean.py
 ```
 
 ## Natural Language Processing
+```
+TweetAnalysis.ipynb
+```
 
 ### Sentiment Analysis
 
