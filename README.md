@@ -26,7 +26,7 @@ Here I am using the nltk package to do the sentiment analysis
 
 ### LDA Topic Modelling
 
-I am clustering the word into 27 topics. Topics are shown below:
+I am using the 200,000 for training the LDA model and analysis the whole dataset. The dataset can be clustered into 27 topics. Topics are shown below:
 | | Topic |
 | ------------- | ------------- |
 | 0 | hand, wash, tw, prisoner, clinical_trial, officer, writes, water, changing, soap |
